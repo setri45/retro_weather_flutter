@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+When you edit a code, or create new methods or classes, keep in mind that the project use a MVVM project structure.
